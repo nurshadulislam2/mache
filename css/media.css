@@ -6,9 +6,7 @@
     width: 270px;
   }
 
-  .btn3 {
-    left: 155px;
-  }
+  
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -19,9 +17,7 @@
     width: 334px;
   }
 
-  .btn3 {
-    left: 155px;
-  }
+  
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -33,7 +29,6 @@
   }
 
   .btn3 {
-    left: 12px;
     padding: 10px 20px;
   }
 
@@ -50,9 +45,7 @@
     width: 610px;
   }
 
-  .btn3 {
-    left: 6px;
-  }
+  
 }
 
 @media (min-width: 1200px) {
