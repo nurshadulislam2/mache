@@ -5,6 +5,17 @@
     right: 20px;
     width: 270px;
   }
+
+  section,
+  .joinus,
+  .info,
+  .news {
+    padding: 50px 0;
+  }
+
+  header {
+    padding: 60px 0;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -13,6 +24,17 @@
     bottom: -33px;
     right: 20px;
     width: 334px;
+  }
+
+  section,
+  .joinus,
+  .info,
+  .news {
+    padding: 50px 0;
+  }
+
+  header {
+    padding: 60px 0;
   }
 }
 
@@ -30,6 +52,11 @@
 
   .btn4 {
     padding: 10px 20px;
+  }
+
+  .card-body1 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
